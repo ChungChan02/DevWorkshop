@@ -1,1 +1,5 @@
-System.out.println("Hello, my name is Chung Chan")
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, my name is Chung Chan");
+    }
+}
