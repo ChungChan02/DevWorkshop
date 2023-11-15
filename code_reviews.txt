@@ -30,3 +30,26 @@ In the good code review example, the coder emphasizes the importance of spreadin
 which shows that they emphasize teaching their reviewee over correcting them. This is a work
 practice that seems healthy for the workplace, as well as improve the quality of the code
 review.
+
+
+2. Find an example of a "good" code review. Provide a link to the review and explain why 
+you found the review beneficial.
+
+https://medium.com/transparent-data-eng/good-and-bad-code-review-examples-219c0024e6b0
+
+In the good code review example, the coder emphasizes the importance of spreading knowledge,
+which shows that they emphasize teaching their reviewee over correcting them. This is a work
+practice that seems healthy for the workplace, as well as improve the quality of the code
+review.
+
+
+3. Find an example of a "bad" code review. Provide a link to the review and briefly explain 
+why you found the review not beneficial. In addition, include recommendations for improvement 
+to the review feedback.
+
+In the following code, reviews posted insightful algorithims in improving efficiency. The last review simply restated
+the orginial code. There was no proof or reasoning on why their code can be used for efficiency.
+They simply did not answer or give information to the author of this code review.
+
+
+https://codereview.stackexchange.com/questions/287894/python-detect-if-a-number-is-divisible-by-any-number-in-a-list
