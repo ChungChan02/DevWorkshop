@@ -1,3 +1,26 @@
+1.
+Concepts similarity:
+- Respect others, feel free to disagree with the reviews, learn and improve
+- Clear, obvious guidelines, comment
+- Smaller is better
+- Time management
+- Code accuracy
+- In most situations, give feedback ASAP (within 24 hours, if it is small, it should be manageable to do this)
+
+Key differences:
+- Microsoft side includes more guidelines for better team communication, such as "Watch your tone", and "Introducing the Emoji Code". It gives examples of how to point out problems and lists out the most used Emoji's definitions.
+- Yelp didn't mention a lot of communication, but focused more on "code review". For example, provide two checklists: "When posting a code review", and "When doing a code review."
+
+In general, what items should be present:
+- Smaller is better
+- Time management
+- Code accuracy
+- Make sure to pick the best reviewer
+- Explain/ Comment clearly on what you're doing for each task (no matter how big or small) so others can understand your code quickly and easily.
+- Review your own code before asking for others to review
+- In most situations, give feedback ASAP (within 24 hours, if it is small, it should be manageable to do this)
+- Respond to feedback ASAP
+
 2. Find an example of a "good" code review. Provide a link to the review and explain why 
 you found the review beneficial.
 
