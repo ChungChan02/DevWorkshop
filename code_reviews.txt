@@ -32,17 +32,6 @@ practice that seems healthy for the workplace, as well as improve the quality of
 review.
 
 
-2. Find an example of a "good" code review. Provide a link to the review and explain why 
-you found the review beneficial.
-
-https://medium.com/transparent-data-eng/good-and-bad-code-review-examples-219c0024e6b0
-
-In the good code review example, the coder emphasizes the importance of spreading knowledge,
-which shows that they emphasize teaching their reviewee over correcting them. This is a work
-practice that seems healthy for the workplace, as well as improve the quality of the code
-review.
-
-
 3. Find an example of a "bad" code review. Provide a link to the review and briefly explain 
 why you found the review not beneficial. In addition, include recommendations for improvement 
 to the review feedback.
